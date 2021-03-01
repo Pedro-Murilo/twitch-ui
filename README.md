@@ -3,7 +3,7 @@
 
 <p align="center" width="300">
 
-<a href="https://nextjs.org">
+<a href="https://reactnative.dev/">
   <img alt="Made with React Native" src="https://img.shields.io/badge/Made%20with-React_Native-0b67a1?style=for-the-badge&logo=react" />
 </a>
   
@@ -41,8 +41,8 @@ This application is a UI clone from Twitch mobile version made with React Native
 
 ---
 ### 🚀 Technologies
-> <a href="https://reactjs.org">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+> <a href="https://reactnative.dev/">
+  <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
  </a> 
 <a href="https://styled-components.com">
  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=000" />
