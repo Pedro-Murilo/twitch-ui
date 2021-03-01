@@ -76,7 +76,8 @@ This application is a UI clone from Twitch mobile version made with React Native
 
 ### Step 5
  > After these steps, it will open a bundle on port `http://localhost:19002/`
- > open your Expo app and touch on `Scan QR Code`, and Scan your QR Code that open on `localhost:19002`
+ > open your Expo app and touch on `Scan QR Code`, now Scan your QR Code and 
+ > it will open on your device
 ```
 
 ---
